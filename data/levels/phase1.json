@@ -1,0 +1,15 @@
+{
+ "world":"Green Valley",
+ "levels":[
+  {"id":1,"name":"First Sparks","bonus":30,"waves":[{"count":2,"tier":1,"hp":7,"speed":130},{"count":2,"tier":2,"hp":10,"speed":145}]},
+  {"id":2,"name":"Bounce Patrol","bonus":36,"waves":[{"count":3,"tier":1,"hp":8,"speed":150},{"count":2,"tier":2,"hp":13,"speed":165}]},
+  {"id":3,"name":"Split Happens","bonus":42,"waves":[{"count":3,"tier":2,"hp":14,"speed":160},{"count":2,"tier":2,"hp":17,"speed":175}]},
+  {"id":4,"name":"Double Trouble","bonus":50,"waves":[{"count":3,"tier":2,"hp":17,"speed":185},{"count":3,"tier":1,"hp":13,"speed":180},{"count":2,"tier":2,"hp":19,"speed":185}]},
+  {"id":5,"name":"Rolling Thunder","bonus":55,"waves":[{"count":2,"tier":3,"hp":24,"speed":160},{"count":3,"tier":2,"hp":18,"speed":190}]},
+  {"id":6,"name":"Cracked Skies","bonus":62,"waves":[{"count":3,"tier":2,"hp":24,"speed":180},{"count":2,"tier":3,"hp":28,"speed":170}]},
+  {"id":7,"name":"Orb Avalanche","bonus":68,"waves":[{"count":3,"tier":2,"hp":26,"speed":190},{"count":3,"tier":2,"hp":24,"speed":195},{"count":2,"tier":3,"hp":31,"speed":180}]},
+  {"id":8,"name":"Overdrive","bonus":75,"waves":[{"count":3,"tier":3,"hp":32,"speed":175},{"count":4,"tier":2,"hp":26,"speed":210}]},
+  {"id":9,"name":"Final Approach","bonus":85,"waves":[{"count":3,"tier":3,"hp":34,"speed":185},{"count":4,"tier":2,"hp":29,"speed":225},{"count":2,"tier":3,"hp":36,"speed":205}]},
+  {"id":10,"name":"Valley Champion","bonus":120,"waves":[{"count":3,"tier":3,"hp":38,"speed":190},{"count":4,"tier":2,"hp":32,"speed":225},{"count":3,"tier":3,"hp":42,"speed":205}]}
+ ]
+}

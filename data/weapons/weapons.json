@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "weapons": [
+    {"id":"classic","name":"Classic Cannon","subtitle":"Powerful precision shots","description":"Balanced power, reliable fire, and clean aiming.","damage":5.0,"fire_rate":3.4,"projectile_speed":1100.0,"projectile_radius":8.0,"streams":1,"spread_degrees":0.0,"cost":0,"color":"#42e7ff"},
+    {"id":"rapid","name":"Rapid Blaster","subtitle":"Rain down fast projectiles","description":"Less damage per shot, but exceptional sustained fire.","damage":2.2,"fire_rate":8.0,"projectile_speed":1220.0,"projectile_radius":6.0,"streams":1,"spread_degrees":0.0,"cost":85,"color":"#ffb44a"},
+    {"id":"spread","name":"Tri-Shot Cannon","subtitle":"Cover three trajectories","description":"Three angled shots clear clustered enemies; fewer shots hit distant targets.","damage":2.7,"fire_rate":2.4,"projectile_speed":1000.0,"projectile_radius":7.0,"streams":3,"spread_degrees":13.0,"cost":175,"color":"#d68aff"}
+  ]
+}
